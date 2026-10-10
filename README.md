@@ -95,8 +95,8 @@ An interactive **Power BI dashboard** that analyzes **1,03,024 Ola ride bookings
 - Clean, branded, user-friendly design built for data-driven decision-making
 
 ---
-📁 Screen Shot:
-Example: ![Dashboard Preview](https://github.com/KaranShinde016/Ola-Ride-Booking-Analysis-Dashboard/edit/main/README.md)
+##  Screen Shot:
+Example: ![Dashboard Preview](https://github.com/KaranShinde016/Ola-Ride-Booking-Analysis-Dashboard/blob/main/ola%20project%20dashboard%20ss.png)
 
 ---
 ## 📁 Repository Structure
